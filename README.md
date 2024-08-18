@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Ender17133/EfficientNet_ImageClassification/blob/main/EfficientNet%20-%20Image_Classification.ipynb)
+
 # Neural Network Image Classification
 
 Objective: Predicting whether patient has the Alzheimer's disease (binary output: 1 - has Alzheimer's, 0 - doesn't have Alzheimer's)
