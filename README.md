@@ -1,3 +1,4 @@
+# Neural Network Image Classification
 - Given project has 1 main objective:
 
     Predicting whether patient has an Alzheimer's disease (binary output: 1-Has Alzheimer's, 0 - Doesn't havae Alzheimer's)
