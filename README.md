@@ -21,3 +21,5 @@ EfficientNet is a relatively young neural network architecture which has a uniqu
 2) EfficientNetV2S (Small) - A larger EfficientNet model with higher number of parameters and ability to catch patterns of the data.
 
 All computations were made on Google Collab's TPUv2.
+
+[Download the Presentation](https://github.com/Ender17133/EfficientNet_ImageClassification/blob/main/EfficientNet_Image_Classification.pptx)
