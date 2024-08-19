@@ -20,10 +20,9 @@ The Dataset is consists of total 6400 MRI images.
 Class - 1: Mild Demented (896 images)
 Class - 2: Moderate Demented (64 images)
 Class - 3: Non Demented (3200 images)
-Class - 4: Very Mild Demented (2240 images)
+Class - 4: Very Mild Demented (2240 images).
 
-For the purpose of the project: 
-Data will be divided into 2 specific classes:
+For the purpose of the project, data will be divided into 2 specific classes:
 
 1) Not demented brain MRI pictures
 
