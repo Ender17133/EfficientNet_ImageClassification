@@ -7,6 +7,7 @@
 
 ## Data Used: [link](https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset/code)
 **Source: Kaggle**
+
 **Device/s used: Google TPUv2**
 
 Alzheimer MRI Preprocessed Dataset (128 x 128)
